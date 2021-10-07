@@ -1,4 +1,4 @@
-# fyne-Golang-GUI
+# fyne Golang GUI Tutorial , Course and Projects with Source Code
 40 Fyne Golang GUI Projects & Tutorial with Source Code
 
 Golang seems new but feature rich language
